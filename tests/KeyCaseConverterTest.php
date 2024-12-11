@@ -38,7 +38,7 @@ class KeyCaseConverterTest extends TestCase
         $this->assertEquals($output, $array);
     }
 
-    public function provider()
+    public static function provider()
     {
         return [
             [
