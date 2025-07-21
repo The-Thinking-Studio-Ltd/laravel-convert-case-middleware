@@ -12,12 +12,13 @@ Its convention to work with camel case in Javascript and snake case in PHP.
 
 Requirements
 -
-Laravel 5.2+
+For Laravel 12 install version 1.1.4
+For Laravel 11 install version 1.1.3
 
 Installation
 -
 
-1. `composer require tomlerendu/laravel-convert-case-middleware`
+1. `composer require yabble/laravel-convert-case-middleware`
 2. Add the middleware to the appropriate group in `App\Http\Kernel.php`. For example
 
 ```
