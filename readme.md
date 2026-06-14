@@ -12,6 +12,7 @@ Its convention to work with camel case in Javascript and snake case in PHP.
 
 Requirements
 -
+For Laravel 13 install version 1.1.7
 For Laravel 12 install version 1.1.4
 For Laravel 11 install version 1.1.3
 
